@@ -10,7 +10,10 @@ export default {
         bg_main:"#091322",
         hightlight:"#3161BF",
         secondary:"#12264A",
-        grey:"#232D39"
+        blue:"#101B29",
+        grey:"#232D39",
+        lightGrey:"#29333F",
+        whiteGrey:"#353F4A"
       }
     },
   },
