@@ -4,9 +4,10 @@ import { IoHelpCircleSharp } from "react-icons/io5";
 import { FaRegUser } from "react-icons/fa6";
 import { MdOutlineFilterAlt } from "react-icons/md";
 import { IoSearchSharp } from "react-icons/io5";
+import CustomDropdown from './CustomDropdown';
 
 
-function Navbar() {
+function Navbar({onFilterChange}) {
     const style = { color: "white", fontSize: "1.2em" }
 
   return (

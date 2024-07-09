@@ -13,7 +13,9 @@ export default {
         blue:"#101B29",
         grey:"#232D39",
         lightGrey:"#29333F",
-        whiteGrey:"#353F4A"
+        whiteGrey:"#353F4A",
+        tableBlue:"#101B29",
+        tableHeader:"#1D2734"
       }
     },
   },
